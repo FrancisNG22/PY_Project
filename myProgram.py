@@ -8,4 +8,5 @@ print(type(x))
 print(type(z))
 print(x==y)
 print(x==z)
+print('2nd push')
 
